@@ -1,0 +1,10 @@
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\EpamPracticeTask3.exe.config
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\obj\Debug\EpamPracticeTask3.csprojResolveAssemblyReference.cache
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\EpamPracticeTask3.exe
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\EpamPracticeTask3.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\obj\Debug\EpamPracticeTask3.exe
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\obj\Debug\EpamPracticeTask3.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\Logger.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\Newtonsoft.Json.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\Logger.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask3\EpamPracticeTask3\bin\Debug\Newtonsoft.Json.xml
